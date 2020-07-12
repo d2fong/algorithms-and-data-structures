@@ -52,15 +52,17 @@ yarn add dsa-ts
 ## Algorithms
 
 Following algoritms/problems compiled from
-  - Grokking the Coding Interview
-  - Elements of Programming Interviews
-  - Top Interview Questions from Leetcode
+
+- Grokking the Coding Interview
+- Elements of Programming Interviews
+- Top Interview Questions from Leetcode
 
 - [ ] Array
-  - [ ] 238. Product of Array Except Self (Medium)
-  - [ ] 48. Rotate Image (Medium)
-  - [ ] 448. Find All Numbers Disappeared in an Array (Easy)
-  - [ ] 33. Search in Rotated Sorted Array (Medium)
+
+  - [x] 238. Product of Array Except Self (Medium)
+  - [x] 48. Rotate Image (Medium)
+  - [x] 448. Find All Numbers Disappeared in an Array (Easy)
+  - [x] 33. Search in Rotated Sorted Array (Medium)
   - [ ] 34. Find First and Last Position of Element in Sorted Array (Medium)
   - [ ] 189. Rotate Array (Easy)
   - [ ] 118. Pascal's Triangle (Easy)
@@ -71,9 +73,9 @@ Following algoritms/problems compiled from
   - [ ] 41. First Missing Positive (Hard)
   - [ ] 4. Median of Two Sorted Arrays (Hard)
   - [ ] 84. Largest Rectangle in Histogram (Hard)
-  
 
-- [ ] Sliding Window
+* [ ] Sliding Window
+
   - [ ] 53. Maximum Subarray (Easy)
   - [ ] 209. Minim Size Subarray Sum (Medium)
   - [ ] 904. Fruit Into Baskets (Medium)
@@ -84,8 +86,9 @@ Following algoritms/problems compiled from
   - [ ] 46. Minimum Window Substring (Hard)
   - [ ] 76. Minimum Window Substring (Hard)
   - [ ] 239. Sliding Window Maximum (Hard)
-  
-- [ ] Two Pointers
+
+* [ ] Two Pointers
+
   - [ ] Two Sum II (Easy)
   - [ ] 26. Remove Duplicates from Sorted Array (Easy)
   - [ ] 977. Squares of a Sorted Array (Easy)
@@ -96,8 +99,9 @@ Following algoritms/problems compiled from
   - [ ] 18. 4Sum (Medium)
   - [ ] 844. Backspace String Compare (Easy)
   - [ ] 581. Shortest Unsorted Continuous Subarray (Easy)
-  
-- [ ] Fast and Slow Pointers
+
+* [ ] Fast and Slow Pointers
+
   - [ ] 141. Linked List Cycle (Easy)
   - [ ] 142. Linked List Cycle II (Easy)
   - [ ] 202. Happy Number (Easy)
@@ -105,20 +109,23 @@ Following algoritms/problems compiled from
   - [ ] 234. Palindrome Linked List (Easy)
   - [ ] 143. Reorder List (Medium)
   - [ ] 457. Circular Array Loop (Medium)
-  
-- [ ] Merge Intervals
+
+* [ ] Merge Intervals
+
   - [ ] 56. Merge Intervals (Medium)
   - [ ] 57. Insert Interval (Hard)
   - [ ] 986. Interval List Intersection (Medium)
-  
-- [ ] Cyclic Sort
+
+* [ ] Cyclic Sort
+
   - [ ] 268. Missing Number (Easy)
   - [ ] 448. Find All Numbers Disappeared in an Array (Easy)
   - [ ] 287. Find the Duplicate Number (Medium)
   - [ ] 442. Find All Duplicates in an Array (Medium)
   - [ ] 41. First Missing Positive (Hard)
-  
-- [ ] Top K Elements
+
+* [ ] Top K Elements
+
   - [ ] 215. Kth Largest Element in an Array (Medium)
   - [ ] 973. K Closest Points to Origin (Meidum)
   - [ ] 1000. Minimum Cost to Merge Stones (Hard)
@@ -129,17 +136,20 @@ Following algoritms/problems compiled from
   - [ ] 767. Reorganize String (Medium)
   - [ ] 358. Rearrange String k Distance Apart (Hard)
   - [ ] 895. Maximum Frequency Stack (Hard)
-  
-- [ ] K-way Merge
+
+* [ ] K-way Merge
+
   - [ ] 23. Merge K Sorted Lists (Hard)
   - [ ] 378. Kth Smallest Element in a Sorted Matrix (Medium)
   - [ ] 373. Find K Pairs with Smallest Sums (Medium)
-  
-- [ ] String
+
+* [ ] String
+
   - [ ] 171 Excel Sheet Column Number (Easy)
   - [ ] 14. Longest Common Prefix (Easy)
-  
-- [ ] Linked List
+
+* [ ] Linked List
+
   - [ ] 21. Merge Two Sorted Lists (Easy)
   - [ ] 160. Intersection of Two Linked Lists (Easy)
   - [ ] 83. Remove Duplicates from Sorted List (Easy)
@@ -154,16 +164,19 @@ Following algoritms/problems compiled from
   - [ ] 328. Odd Even Linked List (Medium)
   - [ ] 234. Palindrome Linked List (Easy)
   - [ ] 86. Partition List (Medium)
-  
-- [ ] Hash Table
+
+* [ ] Hash Table
+
   - [ ] 739. Daily Temperatures (Medium)
   - [ ] 560. Subarray Sum Equals K (Medium)
   - [ ] 438. Find All Anagrams in a String (Medium)
-  
-- [ ] Stack/Queues
+
+* [ ] Stack/Queues
+
   - [ ] 150. Evaluate Reverse Polish Notation (Medium)
-  
-- [ ] Tree
+
+* [ ] Tree
+
   - [ ] 617. Merge Two Binary Trees (Easy)
   - [ ] 226. Invert Binary Tree (Easy)
   - [ ] 110. Balanced Binary Tree (Easy)
@@ -174,8 +187,9 @@ Following algoritms/problems compiled from
   - [ ] 236. Lowest Common Ancestor of a Binary Tree (Medium)
   - [ ] 297. Serialize and Deserialize Binary Tree (Hard)
   - [ ] 145. Binary Tree Postorder Traversal Tree (Hard)
-  
-- [ ] Tree Breadth First Search
+
+* [ ] Tree Breadth First Search
+
   - [ ] 101. Symmetric Tree (Easy)
   - [ ] 102. Binary Tree Level Order Traversal (Medium)
   - [ ] 107. Binary Tree Level Order Traversal II (Easy)
@@ -185,8 +199,9 @@ Following algoritms/problems compiled from
   - [ ] 104. Maximum Depth of Binary Tree (Easy)
   - [ ] 116. Populating Next Right Pointers in Each Node (Medium)
   - [ ] 199. Binary Tree Right Side View (Medium)
-  
-- [ ] Tree Depth First Search
+
+* [ ] Tree Depth First Search
+
   - [ ] 112. Path Sum (Easy)
   - [ ] 113. Path Sum II (Medium)
   - [ ] 105. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
@@ -197,29 +212,34 @@ Following algoritms/problems compiled from
   - [ ] 124. Binary Tree Maximum Path Sum (Hard)
   - [ ] 98. Validate Binary Search Tree (Medium)
   - [ ] 1028. Recover a Tree From Preorder Traversal (Hard)
-  
-- [ ] General BFS/DFS
+
+* [ ] General BFS/DFS
+
   - [ ] 127. Word Ladder (Medium)
   - [ ] 301. Remove Invalid Parentheses (Hard)
-  
-- [ ] Two Heaps
+
+* [ ] Two Heaps
+
   - [ ] 295. Find Median from Data Stream (Hard)
   - [ ] 480. Sliding Window Median (Hard)
   - [ ] 502. IPO (Hard)
-  
-- [ ] Bitwise XOR
+
+* [ ] Bitwise XOR
+
   - [ ] 136. Single Number (Easy)
   - [ ] 137. Single Number II (Medium)
   - [ ] 1109. Complement of Base 10 Integer
   - [ ] 832. Flipping an Image (Easy)
-  
-- [ ] Design
+
+* [ ] Design
+
   - [ ] 146. LRU Cache (Medium)
   - [ ] 155. Min Stack (Easy)
   - [ ] 622. Design Circular Queue (Medium)
   - [ ] 232. Implement Queue using Stacks (Easy)
-  
-- [ ] Backtracking
+
+* [ ] Backtracking
+
   - [ ] 78. Subsets (Easy)
   - [ ] 90. Subsets II (Medium)
   - [ ] 46. Permutations (Medium)
@@ -247,8 +267,9 @@ Following algoritms/problems compiled from
   - [ ] 140. Word Break II (Hard)
   - [ ] 10. Regular Expression Matching (Hard)
   - [ ] 126. World Ladder II (Hard)
- 
-- [ ] Greedy
+
+* [ ] Greedy
+
   - [ ] 763. Partition Labels (Medium)
   - [ ] 407. Queue Reconstruction by Height (Medium)
   - [ ] 1046. Last Stone Weight (Easy)
@@ -267,13 +288,13 @@ Following algoritms/problems compiled from
   - [ ] 630. Course Schedule III (Hard)
   - [ ] 135. Candy (Hard)
   - [ ] 402. Remove K Digits (Medium)
-  
-- [ ] Dynamic Programming
-- [ ] Graph Theory
-- [ ] Minimum Spanning Trees
-- [ ] Shortest Paths
-- [ ] All-Pairs Shortest Paths
-- [ ] Maximum Flows and Minimum Cuts
+
+* [ ] Dynamic Programming
+* [ ] Graph Theory
+* [ ] Minimum Spanning Trees
+* [ ] Shortest Paths
+* [ ] All-Pairs Shortest Paths
+* [ ] Maximum Flows and Minimum Cuts
 
 ## References
 
