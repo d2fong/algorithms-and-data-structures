@@ -54,11 +54,11 @@ yarn add dsa-ts
 Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
 
 - [ ] Array
-  - [ ] 509. Fibonacci Number (Easy)
-  - [ ] 896. Monotonic Array (Easy)
-  - [ ] 238. Product of Array Except Self (Medium)
-  - [ ] 48. Rotate Image (Medium)
-  - [ ] 448. Find All Numbers Disappeared in an Array (Easy)
+  - [x] 509. Fibonacci Number (Easy)
+  - [x] 896. Monotonic Array (Easy)
+  - [x] 238. Product of Array Except Self (Medium)
+  - [x] 48. Rotate Image (Medium)
+  - [x] 448. Find All Numbers Disappeared in an Array (Easy)
   - [ ] 33. Search in Rotated Sorted Array (Medium)
   - [ ] 34. Find First and Last Position of Element in Sorted Array (Medium)
   - [ ] 189. Rotate Array (Easy)
@@ -70,7 +70,7 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [ ] 41. First Missing Positive (Hard)
   - [ ] 4. Median of Two Sorted Arrays (Hard)
   - [ ] 84. Largest Rectangle in Histogram (Hard)
-  - [ ] 1200. Minimum Absolute Difference (Easy)
+  - [x] 1200. Minimum Absolute Difference (Easy)
 
 - [ ] Sliding Window
   - [ ] 209. Minim Size Subarray Sum (Medium)
