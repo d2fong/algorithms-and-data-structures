@@ -86,7 +86,7 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
 - [ ] Two Pointers
   - [ ] 167. Two Sum II (Easy)
   - [ ] 283. Move Zeroes
-  - [ ] 26. Remove Duplicates from Sorted Array (Easy)
+  - [x] 26. Remove Duplicates from Sorted Array (Easy)
   - [ ] 977. Squares of a Sorted Array (Easy)
   - [ ] 15. 3Sum (Medium)
   - [ ] 16. 3Sum Closest (Medium)
